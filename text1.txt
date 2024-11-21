@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 944A-7FDA
+
+ Directory of C:\Users\dipti\OneDrive\Desktop\MyProject
+
+11/21/2024  04:09 AM    <DIR>          .
+11/21/2024  03:48 AM    <DIR>          ..
+11/21/2024  04:09 AM                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  54,278,578,176 bytes free
