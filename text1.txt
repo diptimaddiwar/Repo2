@@ -8,3 +8,5 @@
 11/21/2024  04:09 AM                 0 text1.txt
                1 File(s)              0 bytes
                2 Dir(s)  54,278,578,176 bytes free
+
+I am adding this file to git
